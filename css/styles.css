@@ -173,9 +173,10 @@ table { border-collapse: collapse; border-spacing: 0; }
 /* ==========================================================================
 Headings
 ========================================================================== */
-h1.chain { text-align: center; text-transform: uppercase; color: #353738; letter-spacing: 2px; font-size: 18px; font-weight: 600; padding-top: 75px; }
-h2.frame { text-align: center; text-transform: uppercase; color: #353738; letter-spacing: 2px; font-size: 18px; font-weight: 600; background: url(../img/living-icon.png) no-repeat top center; padding-top: 65px; margin-top: 70px; }
-h2.mech { text-align: center; text-transform: uppercase; color: #353738; letter-spacing: 2px; font-size: 18px; font-weight: 600; background: url(../img/kitchen-icon.png) no-repeat top center; padding-top: 65px; margin-top: 70px; }
+h1.main { text-align: center; text-transform: uppercase; color: #353738; letter-spacing: 2px; font-size: 18px; font-weight: 600; padding-top: 75px; }
+h2.living { text-align: center; text-transform: uppercase; color: #353738; letter-spacing: 2px; font-size: 18px; font-weight: 600; background: url(../img/living-icon.png) no-repeat top center; padding-top: 65px; margin-top: 70px; }
+h2.kitchen { text-align: center; text-transform: uppercase; color: #353738; letter-spacing: 2px; font-size: 18px; font-weight: 600; background: url(../img/kitchen-icon.png) no-repeat top center; padding-top: 65px; margin-top: 70px; }
+h2.bedroom { text-align: center; text-transform: uppercase; color: #353738; letter-spacing: 2px; font-size: 18px; font-weight: 600; background: url(../img/bedroom-icon.png) no-repeat top center; padding-top: 65px; margin-top: 70px; }
 h2.front-frame { text-align: center; text-transform: uppercase; color: #353738; letter-spacing: 2px; font-size: 18px; font-weight: 600; background: url(../img/beach-icon.png) no-repeat top center; padding-top: 65px; margin-top: 70px; }
 h2.twitter-post-username { color: #353738; letter-spacing: 2px; font-size: 18px; font-weight: 600; margin-top: 30px; }
 h2.twitter-post-username span { color: #848789; font-weight: 300; }
