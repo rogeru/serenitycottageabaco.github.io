@@ -180,7 +180,7 @@ h2.bedroom { text-align: center; text-transform: uppercase; color: #353738; lett
 h2.front-frame { text-align: center; text-transform: uppercase; color: #353738; letter-spacing: 2px; font-size: 18px; font-weight: 600; background: url(../img/beach-icon.png) no-repeat top center; padding-top: 65px; margin-top: 70px; }
 h2.twitter-post-username { color: #353738; letter-spacing: 2px; font-size: 18px; font-weight: 600; margin-top: 30px; }
 h2.twitter-post-username span { color: #848789; font-weight: 300; }
-h2.logo-header { text-align: center; color: #848789; letter-spacing: 1px; font-size: 24px; font-weight: 300; background: url(../img/main-logo.png) no-repeat top center; padding-top: 120px; margin: 70px 0 40px 0; font-style: italic; }
+h2.logo-header { text-align: center; color: #848789; letter-spacing: 1px; font-size: 24px; font-weight: 300; background: url(../img/main-logo-120.png) no-repeat top center; padding-top: 150px; margin: 20px 0 40px 0; font-style: italic; }
 /* ==========================================================================
 User Styles
 ========================================================================== */
@@ -198,7 +198,7 @@ p { text-align: center; font-size: 14px; color: #848789; font-weight: 300; word-
 p.text-intro { font-size: 18px; }
 .hero { background: url(../img/hero-bg.jpg) no-repeat top center white; background-position-y: 30%!important; -webkit-background-size: cover; -moz-background-size: cover; -o-background-size: cover; background-size: cover; height: 685px; }
 nav { height: 85px; margin-top: 20px; margin-bottom: 10px; position: relative; }
-.logo-holder { background: url(../img/main-logo.png) no-repeat center center; width: 94px; height: 85px; position: absolute; top: 0; left: 327px; }
+.logo-holder { background: url(../img/main-logo-120.png) no-repeat center center; width: 130px; height: 120px; position: absolute; top: 0; left: 327px; }
 .responsive-logo { display: hidden; }
 header { background-color: white; }
 header ul { padding-top: 35px; }
