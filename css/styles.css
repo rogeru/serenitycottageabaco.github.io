@@ -176,8 +176,8 @@ Headings
 h1.main { text-align: center; text-transform: uppercase; color: #353738; letter-spacing: 2px; font-size: 18px; font-weight: 600; padding-top: 25px; }
 h2.living { text-align: center; text-transform: uppercase; color: #353738; letter-spacing: 2px; font-size: 18px; font-weight: 600; background: url(../img/living-icon.png) no-repeat top center; padding-top: 65px; margin-top: 70px; }
 h2.kitchen { text-align: center; text-transform: uppercase; color: #353738; letter-spacing: 2px; font-size: 18px; font-weight: 600; background: url(../img/kitchen-icon.png) no-repeat top center; padding-top: 65px; margin-top: 70px; }
-h2.bedroom { text-align: center; text-transform: uppercase; color: #353738; letter-spacing: 2px; font-size: 18px; font-weight: 600; background: url(../img/bedroom-icon.png) no-repeat top center; padding-top: 65px; margin-top: 70px; }
-h2.front-frame { text-align: center; text-transform: uppercase; color: #353738; letter-spacing: 2px; font-size: 18px; font-weight: 600; background: url(../img/beach-icon.png) no-repeat top center; padding-top: 65px; margin-top: 70px; }
+h2.bedroom { text-align: center; text-transform: uppercase; color: #353738; letter-spacing: 2px; font-size: 18px; font-weight: 600; background: url(../img/bedroom-icon.png) no-repeat top center; padding-top: 65px; margin-top: 30px; }
+h2.front-frame { text-align: center; text-transform: uppercase; color: #353738; letter-spacing: 2px; font-size: 18px; font-weight: 600; background: url(../img/beach-icon.png) no-repeat top center; padding-top: 65px; margin-top: 30px; }
 h2.twitter-post-username { color: #353738; letter-spacing: 2px; font-size: 18px; font-weight: 600; margin-top: 30px; }
 h2.twitter-post-username span { color: #848789; font-weight: 300; }
 h2.logo-header { text-align: center; color: #848789; letter-spacing: 1px; font-size: 24px; font-weight: 300; background: url(../img/main-logo-120.png) no-repeat top center; padding-top: 150px; margin: 20px 0 40px 0; font-style: italic; }
@@ -195,7 +195,7 @@ User Styles
 a { color: #282f35; -webkit-transition: all .25s ease; -moz-transition: all .25s ease; -ms-transition: all .25s ease; -o-transition: all .25s ease; transition: all .25s ease; }
 a:hover { color: #64c29e; text-decoration: none; }
 p { text-align: center; font-size: 14px; color: #848789; font-weight: 300; word-spacing: 2px; line-height: 1.8em; margin-top: 25px; }
-p.text-intro { font-size: 18px; }
+p.text-intro { font-size: 18px; padding: 0 8px 0 8px; }
 .hero { background: url(../img/hero-bg.jpg) no-repeat top center white; background-position-y: 30%!important; -webkit-background-size: cover; -moz-background-size: cover; -o-background-size: cover; background-size: cover; height: 685px; }
 nav { height: 85px; margin-top: 20px; margin-bottom: 10px; position: relative; }
 .logo-holder { background: url(../img/main-logo-120.png) no-repeat center center; width: 130px; height: 120px; position: absolute; top: 0; left: 327px; }
@@ -205,16 +205,16 @@ header ul { padding-top: 35px; }
 header ul li { list-style: none; float: left; text-transform: uppercase; letter-spacing: 2px; }
 header ul li a { display: block; margin: 0 30px; color: #4d4959; }
 .r_spacer { margin-right: 180px; }
-.intro { padding: 115px 0; background-color: #fbfbfb; }
+.intro { padding: 55px 0; background-color: #fbfbfb; }
 .section-living { background: url(../img/living.jpg) no-repeat center center; -webkit-background-size: cover; -moz-background-size: cover; -o-background-size: cover; background-size: cover; height: 600px; position: relative; }
 .section-1 { background: url(../img/bedroom1.jpg) no-repeat center center; -webkit-background-size: cover; -moz-background-size: cover; -o-background-size: cover; background-size: cover; height: 600px; position: relative; }
-.section-2 { background: url(../img/left-box-2.jpg) no-repeat center center; -webkit-background-size: cover; -moz-background-size: cover; -o-background-size: cover; background-size: cover; height: 600px; position: relative; }
-.section-3 { background: url(../img/red-frame.jpg) no-repeat center center; -webkit-background-size: cover; -moz-background-size: cover; -o-background-size: cover; background-size: cover; height: 600px; position: relative; }
-.section-4 { background: url(../img/red-bike.jpg) no-repeat center center; -webkit-background-size: cover; -moz-background-size: cover; -o-background-size: cover; background-size: cover; height: 600px; }
+.section-2 { background: url(../img/kitchen-dining.jpg) no-repeat center center; -webkit-background-size: cover; -moz-background-size: cover; -o-background-size: cover; background-size: cover; height: 600px; position: relative; }
+.section-3 { background: url(../img/beach-west.jpg) no-repeat center center; -webkit-background-size: cover; -moz-background-size: cover; -o-background-size: cover; background-size: cover; height: 600px; position: relative; }
+.section-4 { background: url(../img/drone-beach1.jpg) no-repeat center center; -webkit-background-size: cover; -moz-background-size: cover; -o-background-size: cover; background-size: cover; height: 600px; }
 .section-text { position: relative; height: 600px; }
 .nopadding { padding: 0 !important; margin: 0 !important; }
 .thin-sep { height: 1px; background-color: #d7d7d7; width: 50px; margin: 8% auto 0 auto; }
-.small-featured-img { height: 200px; width: 100%; position: absolute; bottom: 0; }
+.small-featured-img { height: 180px; width: 100%; position: absolute; bottom: 0; }
 .living2 { background: url(../img/living2.jpg) no-repeat center center; -webkit-background-size: cover; -moz-background-size: cover; -o-background-size: cover; background-size: cover; }
 .bedroom2 { background: url(../img/bedroom2.jpg) no-repeat center center; -webkit-background-size: cover; -moz-background-size: cover; -o-background-size: cover; background-size: cover; }
 .dinig { background: url(../img/dining.jpg) no-repeat center center; -webkit-background-size: cover; -moz-background-size: cover; -o-background-size: cover; background-size: cover; }
