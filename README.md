@@ -1,1 +1,1 @@
-# Website for Serenity Coottage, Casuarina Point, Abaco, Bahamas
+# Website for Serenity Cottage, Casuarina Point, Abaco, Bahamas
